@@ -1,4 +1,4 @@
-# Laboratorio 6 - M-QAM
+# Laboratorio 5 - M-QAM
 
 Este repositorio contiene los archivos correspondientes al laboratorio de modulación M-QAM.  
 Incluye:
