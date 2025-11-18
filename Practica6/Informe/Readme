@@ -1,1 +1,41 @@
-Informe de la practica 6
+README – Práctica 6: Waveforming con Filtros de Coseno Alzado
+
+Este repositorio contiene toda la información correspondiente a la Práctica 6 – Waveforming y modelado de pulsos en modulación digital, desarrollada como parte del curso de Comunicaciones II. Aquí se encuentran organizados los archivos necesarios para comprender, ejecutar y analizar cada uno de los casos estudiados en el laboratorio.
+
+Contenido del repositorio
+
+La rama de la práctica está estructurada de la siguiente manera:
+
+/Informe/
+Contiene el informe escrito de la práctica, junto con las figuras utilizadas:
+
+Señales en el tiempo
+
+Espectros (PSD)
+
+Diagramas de ojo
+
+Constelaciones
+
+Diagrama del flujo implementado
+
+Evidencias por cada caso solicitado en la guía
+
+/Flujograma/
+Incluye el diagrama del proyecto y los elementos configurados para el análisis de las señales.
+El diagrama permite identificar las etapas principales: generación de símbolos, formador de pulsos, filtrado, canal y los visores de análisis.
+
+/Evidencia/
+Carpeta que reúne todas las imágenes obtenidas durante la práctica, clasificadas según cada caso solicitado (forma rectangular, filtro pasabajas, Coseno Alzado con diferentes valores de β y Raíz de Coseno Alzado).
+
+Cómo reproducir la práctica
+
+Para replicar los resultados presentados en el informe, el lector puede:
+
+Revisar el diagrama del flujo disponible en la carpeta Flujograma para conocer la estructura del procesamiento.
+
+Consultar la carpeta Evidencia para observar los resultados obtenidos en cada etapa del laboratorio.
+
+Seguir los parámetros descritos en el informe (tasa de símbolos, tipo de modulación, valor de β, potencia de ruido, respuestas al impulso utilizadas, etc.) para repetir los casos de estudio.
+
+Comparar los resultados generados por el lector con las gráficas almacenadas en este repositorio.
